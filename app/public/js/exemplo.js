@@ -1,0 +1,1 @@
+//validaçoes codigos js para utilizar em outros lugares
