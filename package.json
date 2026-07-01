@@ -1,0 +1,22 @@
+{
+  "name": "validacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarihMC/validacao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LarihMC/validacao/issues"
+  },
+  "homepage": "https://github.com/LarihMC/validacao#readme",
+  "dependencies": {
+    "express-validator": "^7.3.2"
+  }
+}
